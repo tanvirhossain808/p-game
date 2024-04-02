@@ -2,7 +2,7 @@ import './style.css'
 import * as THREE from "three"
 import * as CANNON from "cannon-es"
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js'
-import * as dat from 'lil-gui'
+// import * as dat from 'lil-gui'
 
 
 // Debug
